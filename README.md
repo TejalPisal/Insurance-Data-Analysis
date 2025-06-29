@@ -2,7 +2,7 @@
 
 This Power BI project presents an interactive dashboard for analyzing insurance policy and claims data. The goal is to help stakeholders monitor performance metrics, understand customer demographics, and assess policy/claim status trends for better decision-making.
 
-![Dashboard Screenshot](C:\Users\tejal\Pictures\Screenshots\insurance_data_analysis_ss.png)
+![Dashboard Screenshot](https://github.com/TejalPisal/Insurance-Data-Analysis/blob/main/dashboard_image.png)
 
 ## Key Features
 
